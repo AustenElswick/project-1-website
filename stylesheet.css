@@ -1,0 +1,56 @@
+body{
+  background-image: url('http://www.texturex.com/albums/Metal-Textures/dark%20brushed%20metal%20texture%20steel%20black%20stock%20photo%20scratch%20wallpaper.jpg')
+}
+h1{
+  font-family: 'Kaushan Script', cursive;
+  text-align: center;
+  color: lightblue;
+  margin: 0;
+}
+h2 {
+  font-family: 'Kaushan Script', cursive;
+  text-align: center;
+  color: lightblue;
+}
+p {
+  font-family: 'Cookie', cursive;
+  text-align: center;
+  color:  lightblue;
+}
+ul {
+    list-style-position: inside;
+  color: lightblue;
+  font-size: 26px;
+  /* this makes the dots in the list center */
+}
+.navbar {
+    width: 250px;
+    float: none;
+    margin: 0 auto;
+  /* this makes my navbar centered and stacked */
+}
+img {
+    display: block;
+    margin: auto;
+    width: 100%;
+}
+a:link {
+  color: #4286f4;
+}
+a:hover {
+  color: pink;
+}
+a:visited {
+  color: hotpink;
+}
+a:active {
+  color: gray;
+}
+header {
+  height: 400px;
+  background-color: #000000;
+}
+.wrapper {
+  width: 500px;
+  margin: auto;
+}
